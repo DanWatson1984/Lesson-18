@@ -15,3 +15,5 @@ Create additional user input areas in the Streamlit application. These input are
 Test your complete PyChain ledger.
 
 You’ll then upload the Python file for this Challenge to your GitHub repository. Make sure to update the README.md file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
+
+![image](https://user-images.githubusercontent.com/103453251/185796180-4c3944fc-cbc9-4bf6-bfaf-aa86cf01d02c.png)
